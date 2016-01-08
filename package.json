@@ -1,0 +1,14 @@
+{
+  "name": "@fivethirtyeight/d3-pre-cli",
+  "version": "1.0.0",
+  "description": "Command line utility for d3-pre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Conlen",
+  "license": "ISC",
+  "dependencies": {
+    "@fivethirtyeight/d3-pre-renderer": "^1.0.0"
+  }
+}
