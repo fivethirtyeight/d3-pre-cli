@@ -8,6 +8,19 @@ if(!args.length) {
 }
 
 
-render({
-  inputFile: args[0]
+render({inputFile: args[0]}, function(err, output) {
+  if(err) {
+    console.log(err);
+    return;
+  }
+
+
+  fs.writeFile(args[0], output, function(err) {
+    if(err) {
+      console.log('error saving document', err)
+    } else {
+      console.log('The file was saved!')
+    }
+  });
+
 });

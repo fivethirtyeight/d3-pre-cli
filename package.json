@@ -12,6 +12,6 @@
   "author": "Matthew Conlen",
   "license": "ISC",
   "dependencies": {
-    "@fivethirtyeight/d3-pre-renderer": "^1.0.0"
+    "@fivethirtyeight/d3-pre-renderer": "^2.0.0"
   }
 }
