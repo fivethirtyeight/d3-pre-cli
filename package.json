@@ -1,6 +1,6 @@
 {
   "name": "@fivethirtyeight/d3-pre-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Command line utility for d3-pre",
   "main": "index.js",
   "bin": {
