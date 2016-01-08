@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Command line utility for d3-pre",
   "main": "index.js",
+  "bin": {
+    "d3-pre": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
