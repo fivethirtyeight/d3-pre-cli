@@ -10,7 +10,7 @@
     "test": "semistandard"
   },
   "author": "Matthew Conlen",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "d3-pre-renderer": "^2.1.0"
   },
