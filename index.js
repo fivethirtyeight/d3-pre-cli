@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var fs = require('fs');
-var render = require('@fivethirtyeight/d3-pre-renderer');
+var render = require('d3-pre-renderer');
 
 var args = process.argv.slice(2);
 
