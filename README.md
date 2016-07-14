@@ -1,9 +1,9 @@
 # d3-pre-cli
-Command line utility for d3-pre prerendering pipeline
+Command line utility for d3-pre prerendering pipeline.
 
 See [d3-pre](https://github.com/fivethirtyeight/d3-pre) for more detailed documentation.
 
-## usage
+## Usage
 
 ```
 $ npm install -g @fivethirtyeight/d3-pre-cli
