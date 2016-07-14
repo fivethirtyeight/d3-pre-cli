@@ -6,7 +6,7 @@ See [d3-pre](https://github.com/fivethirtyeight/d3-pre) for more detailed docume
 ## Usage
 
 ```
-$ npm install -g @fivethirtyeight/d3-pre-cli
+$ npm install -g d3-pre-cli
 $ d3-pre ./path/to/index.html
 ```
 
